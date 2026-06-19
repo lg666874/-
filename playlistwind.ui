@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PlayListWind</class>
+ <widget class="QWidget" name="PlayListWind">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>121</width>
+    <height>299</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QListWidget" name="list">
+     <item>
+      <property name="text">
+       <string>tsxk.mp4</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>dlztq.mp4</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>ld.mp4</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>yrzx.mp4</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Samurai.mp3</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>believe.mp4</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>dldl.mp4</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>music.flac</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>temp.mp4</string>
+      </property>
+     </item>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
